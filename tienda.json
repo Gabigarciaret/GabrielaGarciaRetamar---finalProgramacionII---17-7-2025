@@ -1,0 +1,57 @@
+{
+  "name": "Tienda de Electronicos",
+  "inventory": [
+    {
+      "screenSize": "12 pulgadas",
+      "price": 456.89,
+      "name": "Alcatel 8",
+      "storageCapacity": "126 gb",
+      "stock": 4,
+      "brand": "Alcatel",
+      "operatingSystem": "Core"
+    },
+    {
+      "price": 12895.4,
+      "name": "HP 2.1",
+      "storage": "15.6 inch",
+      "stock": 79,
+      "brand": "HP",
+      "processor": "Intel",
+      "ram": "16 gb"
+    },
+    {
+      "price": 80456,
+      "name": "Mouse",
+      "stock": 90,
+      "brand": "Logitech",
+      "connectionType": "USB",
+      "compatibility": "2.0"
+    },
+    {
+      "price": 234.69,
+      "name": "Teclado",
+      "stock": 3,
+      "brand": "Bangho",
+      "connectionType": "USB",
+      "compatibility": "2.0"
+    },
+    {
+      "screenSize": "12 pulgadas",
+      "price": 123456.8,
+      "name": "Samsung A32",
+      "storageCapacity": "126 gb",
+      "stock": 1,
+      "brand": "Samsung",
+      "operatingSystem": "Corei2"
+    },
+    {
+      "price": 567890,
+      "name": "Dell 15",
+      "storage": "15.6 inch",
+      "stock": 34,
+      "brand": "Dell",
+      "processor": "Intel",
+      "ram": "16 gb"
+    }
+  ]
+}
